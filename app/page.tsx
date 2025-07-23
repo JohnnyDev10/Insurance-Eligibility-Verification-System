@@ -57,10 +57,10 @@ export default function Home() {
             <div className="max-w-2xl mx-auto bg-blue-50 border border-blue-200 rounded-lg p-6">
               <h3 className="font-semibold text-blue-900 mb-3">Test Instructions</h3>
               <div className="text-sm text-blue-800 space-y-2">
-                <p><strong>Active Coverage:</strong> Use any member number that doesn't start with special prefixes</p>
-                <p><strong>Inactive Coverage:</strong> Use member number starting with "INACTIVE"</p>
-                <p><strong>System Error:</strong> Use member number starting with "ERROR"</p>
-                <p><strong>Sample Patient ID:</strong> PAT-001, PAT-002, etc.</p>
+              <p><strong>Active Coverage:</strong> Use any member number that doesn&apos;t start with special prefixes</p>
+              <p><strong>Inactive Coverage:</strong> Use member number starting with &quot;INACTIVE&quot;</p>
+              <p><strong>System Error:</strong> Use member number starting with &quot;ERROR&quot;</p>
+              <p><strong>Sample Patient ID:</strong> PAT-001, PAT-002, etc.</p>
               </div>
             </div>
           </TabsContent>
